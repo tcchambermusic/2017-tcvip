@@ -34,7 +34,7 @@
 
 			<p style="text-align: left;">&nbsp;</p>
 
-			<p style="text-align: right;">胡乃元 嚴長壽 敬邀</p>
+			<p style="text-align: right;">嚴長壽 胡乃元 敬邀</p>
 
 			<p style="text-align: right;">&nbsp;</p>
 
